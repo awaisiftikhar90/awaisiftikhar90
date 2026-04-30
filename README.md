@@ -1,7 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Awais Iftikhar</h1>
 <image align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-<h3 align="center">I am open to work as a Java Developer. 3+ years of professional software development experience to meet the business requirements using Java, Angular, Spring Boot, C#, MVC, Web development , Android Development(Jetpack Compose), MVVM, Recycle View, Retrofit, SQL, MySQL Workbench, PostgreSQL, MS Azure, RESTful API, and Agile/Scrum. I am a responsible, self-driven individual who can pick things up quickly. I have experience working in a multicultural atmosphere. I'm eager to collaborate with team mates in order to develop my professionalism and my capacity for teamwork for your organization.</h3>
+<h3 align="center">Certified Salesforce Administrator, Platform App Builder, and Agentforce AI Specialist with a software engineering background
+and 2+ years of experience building data-driven enterprise applications. Experienced in Salesforce configuration, automation,
+and AI-enabled solutions, including Agentforce integrations with Data Cloud, Service Cloud, and Sales Cloud. Strong
+foundation in system design, data modeling, and user access management to support business operations. Proven team
+contributor in Agile environments, translating business requirements into scalable, reliable solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
